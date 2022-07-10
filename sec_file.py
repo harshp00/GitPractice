@@ -1,0 +1,1 @@
+print("New(second) file for practice")
